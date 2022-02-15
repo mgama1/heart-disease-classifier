@@ -1,5 +1,7 @@
 # heart-disease-classifier
 binary classification for the presence of heart disease 
+performed data explotoray analysis and data visualization using pandas and seaborn, model training using logistic regrission, decision tree, and random forest,
+hyperparameter tuning using grid search 
 
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 age: age in years<br>
@@ -39,5 +41,4 @@ target <br>
 0 = no disease,<br>
 1 = disease<br>
 
-performed data explotoray analysis and data visualization using pandas and seaborn, model training using logistic regrission, decision tree, and random forest,
-hyperparameter tuning using grid search 
+
